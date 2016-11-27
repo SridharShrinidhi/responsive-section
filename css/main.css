@@ -43,6 +43,7 @@ section p {
 }
 
 .wrapper {
+  margin: 0 auto;
   max-width: 45em;
 }
 
